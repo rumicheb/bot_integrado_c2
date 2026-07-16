@@ -1,0 +1,6 @@
+#Plaintext
+pyTelegramBotAPI==4.20.0
+schedule==1.2.2
+pandas==2.2.2
+pypdf==4.2.0
+

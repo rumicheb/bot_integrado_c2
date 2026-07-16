@@ -1,0 +1,10 @@
+#Plaintext
+# Excluir credenciales locales
+config.py
+
+# Excluir carpetas de Python y sistema
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+
