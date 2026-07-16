@@ -26,5 +26,3 @@ def procesar_ley_pdf(pdf_path):
     except Exception as e:
         print(f"❌ Error leyendo PDF: {e}")
         return []
-
-
