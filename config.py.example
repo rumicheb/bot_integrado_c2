@@ -1,0 +1,5 @@
+# Configuration file for the Telegram bot
+# renombre este archivo a config.py
+#  y reemplaza los valores con tus credenciales
+TOKEN_API = "telegram token from botfather"
+CHAT_ID_MONITOREO = "id del chat de monitoreo"
