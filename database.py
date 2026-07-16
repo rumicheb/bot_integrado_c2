@@ -3,7 +3,6 @@ import pandas as pd
 import re
 from pypdf import PdfReader
 
-
 def simular_inventario():
     """Retorna un DataFrame con el estado de abastecimiento del PVF."""
     datos = {
