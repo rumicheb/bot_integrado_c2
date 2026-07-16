@@ -11,7 +11,7 @@ def iniciar_hilo_planificador():
             time.sleep(1)
             
     hilo = threading.Thread(target=bucle)
-    hilo_planificador.daemon = True
+    hilo.daemon = True
     hilo.start()
     print("⏳ Hilo del Scheduler activo y patrullando el reloj del sistema...")
 
