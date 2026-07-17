@@ -1,7 +1,0 @@
-pyTelegramBotAPI
-schedule
-pandas
-pypdf
-sentence-transformers
-numpy
-google-genai

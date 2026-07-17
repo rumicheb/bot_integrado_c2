@@ -3,3 +3,5 @@
 #  y reemplaza los valores con tus credenciales
 TOKEN_API = "telegram token from botfather"
 CHAT_ID_MONITOREO = "id del chat de monitoreo"
+GEMINI_API_KEY = ""
+UMBRAL_SIMILITUD = 0.35
